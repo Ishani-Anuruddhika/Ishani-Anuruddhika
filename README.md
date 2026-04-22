@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishani Anuruddhika</h1>
-<h3 align="center">💻 Software Engineering Undergraduate | 🚀 Software developer intern</h3>
+<h3 align="center">💻 BICT(Hons) Undergraduate at Rajarata University of Sri Lanka  | 🚀 Software developer intern</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ishani-anuruddhika-5a9a88313" target="_blank">
