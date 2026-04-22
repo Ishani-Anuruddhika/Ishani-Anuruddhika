@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishani Anuruddhika</h1>
-<h3 align="center">💻 Software Engineering Undergraduate | 🚀 Future Software Developer</h3>
+<h3 align="center">💻 Software Engineering Undergraduate | 🚀 Software developer intern</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ishani-anuruddhika-5a9a88313" target="_blank">
@@ -14,9 +14,8 @@
 
 ## 🚀 About Me
 - 🎓 ICT Undergraduate at Rajarata University of Sri Lanka  
-- 💡 Passionate about Software Development & AI/ML  
-- 🔭 Currently working on Machine Learning & Web Applications  
-- 🌱 Learning **Advanced React, Backend Development & AI**  
+- 💡 Passionate about Software Development  
+- 🌱 Learning **Advanced React,AL/ML & Web Application**  
 - 🎯 Goal: Become a Professional Software Engineer  
 
 ---
