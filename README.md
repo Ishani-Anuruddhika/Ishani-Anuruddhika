@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ishani Anuruddhika</h1>
 <h3 align="center">Software developer intern</h3>
-
+---
+<p>Enthusiastic Software Engineering student with practical knowledge in Python, Java, OOP
+principles, data structures, and web technologies. Experienced in developing modular, maintainable
+code through hands-on projects and coursework. Actively seeking an internship opportunity to
+contribute technical expertise, analytical thinking, and a strong commitment to continuous
+improvement.</p>
 
 
 - 📫 How to reach me **ishaniucb@gmail.com**
